@@ -7,3 +7,5 @@ pandas
 numpy
 pip(if you dont have before)
 fine the csv file in the link below
+
+https://docs.google.com/document/d/1vAJPl3Mz6GkGptCXJvn28do28XnXj90AEO44jAR4OiM/edit?usp=sharing
